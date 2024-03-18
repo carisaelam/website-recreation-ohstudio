@@ -34,6 +34,7 @@ html {
   background-color: transparent;
   position: sticky;
   top: 0;
+  margin-bottom: 90px;
 }
 
 .nav__button__container {
@@ -86,6 +87,10 @@ html {
   font-size: 4rem;
   text-align: center;
   font-weight: 500;
+}
+
+.hero__text {
+  margin-bottom: 50px;
 }
 
 .hero__button__container {
