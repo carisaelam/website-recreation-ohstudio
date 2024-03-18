@@ -5,6 +5,11 @@
   --light: #e8e5e480;
 }
 
+* {
+  margin: 0;
+  padding: 0;
+}
+
 html {
   box-sizing: border-box;
   margin: 0;
