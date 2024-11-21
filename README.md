@@ -1,3 +1,3 @@
 https://carisaelam.github.io/website-recreation-ohstudio/
 
-A recreation of a a website design. 
+Recreated this website: https://oh.studio
